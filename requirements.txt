@@ -1,0 +1,7 @@
+streamlit==1.36.0
+pillow==10.4.0
+textblob
+googlesearch-python
+trafilatura==1.11.0
+openai==1.37.0
+python-dotenv==1.0.1
